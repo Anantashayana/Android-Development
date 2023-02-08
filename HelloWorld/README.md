@@ -23,10 +23,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 https://imgur.com/a/0DuSVSn
 
-<video title='Video Walkthrough' width='' alt='Video Walkthrough' controls>
-    <source src='https://imgur.com/a/0DuSVSn' type="video/gif"  >
-    Video
-</video>
+<img src='SayHello.gif'   ></img>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 
